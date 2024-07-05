@@ -1,5 +1,8 @@
 {
+    "name": "your-vendor/your-package",
+    "description": "A brief description of your package",
+    "license": "proprietary",
     "require": {
-        "php-di/php-di": "6.4.0"
+        "php-di/php-di": "^6.4"
     }
 }
